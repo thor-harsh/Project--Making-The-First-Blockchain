@@ -4,25 +4,26 @@
   
 **In this project We will build our First Block Chain and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
 
+**We are gonna performing three doing in Blockchain using Postman**
 
-**Before jumping to the code lets understand Spark and NLP(Natural Language Processing) First**...<br></br>
+**a:** Visualize our Blockchain <br></br>
+**b:** Mine the Block in the Blockchain <br></br>
+**c:** Check the Validity of our Blockchain <br></br>
 
-**What is Apache Spark?** <br></br>
+**Before jumping to the code lets understand Blockchain First**...<br></br>
 
-Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.<br></br>
-Unify the processing of your data in batches and real-time streaming, using your preferred language: Python, SQL, Scala, Java or R.
-Execute fast, distributed ANSI SQL queries for dashboarding and ad-hoc reporting. Runs faster than most data warehouses.<br></br>
-Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to resort to downsampling.
-Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.<br></br>
+**What is Blockchain**?
+A blockchain is a distributed database or ledger shared among a computer network's nodes. They are best known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in any industry immutable—the term used to describe the inability to be altered.<br></br>
+
+Because there is no way to change a block, the only trust needed is at the point where a user or program enters data. This aspect reduces the need for trusted third parties, which are usually auditors or other humans that add costs and make mistakes.Since Bitcoin's introduction in 2009, blockchain uses have exploded via the creation of various cryptocurrencies, decentralized finance (DeFi) applications, non-fungible tokens (NFTs), and smart contracts.<br></br>
+
+Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography.<br></br>
+Different types of information can be stored on a blockchain, but the most common use for transactions has been as a ledger.<br></br>
+In Bitcoin’s case, blockchain is decentralized so that no single person or group has control—instead, all users collectively retain control.<br></br>
+Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, transactions are permanently recorded and viewable to anyone.<br></br>
 
 
-**What is (NLP)Natural Language Processing**?<br></br>
 
-NLP or Natural language processing is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate human language.<br></br>
-
-NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.<br></br>
-
-NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
 **Important Note: Go through the SMSSPamCollection.csv file before jumping to the code.**
 
