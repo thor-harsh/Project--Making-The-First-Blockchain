@@ -1,9 +1,8 @@
 # Project--Making-The-First-Blockchain
-# Project-Haddop-43-Challenges-
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP(Natural Language Processing) with Spark to classify emails as SPAM and HAM.** <br></br>
+**In this project We will build our First Block Chain and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
 
 
 **Before jumping to the code lets understand Spark and NLP(Natural Language Processing) First**...<br></br>
