@@ -22,7 +22,6 @@ In Bitcoin’s case, blockchain is decentralized so that no single person or gro
 Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, transactions are permanently recorded and viewable to anyone.<br></br>
 
 
-
 </table>
 
 **So what are you waiting for...? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
